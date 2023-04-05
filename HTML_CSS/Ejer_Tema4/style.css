@@ -1,7 +1,7 @@
 #elemento-1 {
 	color: red;
 }
-
+/*Encadenamiento (herencia)*/
 ul li#elemento-1 {
     font-size: 2rem;
 }
