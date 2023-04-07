@@ -1,5 +1,5 @@
 # OpenBootCamp
 
-Exercises done and notes taken
-/*****************************/
-Ejercicios hechos y apuntes
+<p>Exercises done and notes taken</p>
+<p>/*****************************/</p>
+<p>Ejercicios hechos y apuntes</p>
