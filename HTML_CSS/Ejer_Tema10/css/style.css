@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    font-size: 3rem;
+}
+
+.left-bar {
+    display: flex;
+    flex-direction: column;
+	padding: 15px;
+    gap: 15px;
+	background-color: crimson;
+	color: bisque;
+}
+
+.right-bar  {
+    padding: 15px;
+	flex-grow: 3;
+	background-color: darksalmon;
+	color: darkslateblue;
+}
+
+@media (max-width: 640px) {
+    body {
+        flex-direction: column-reverse;
+    }
+    .left-bar {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
