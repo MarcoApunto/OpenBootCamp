@@ -1,0 +1,12 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "primer ejercicio JavaScript OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "primer ejercicio OpenBootCamp"
+  },
+  "author": "Marco Apunto",
+  "license": "ISC"
+}
